@@ -50,7 +50,7 @@ gold_silver_etl/
 ## Architecture Diagram
 
 Illustration of the flow of data through the pipeline. 
-![Architecture Diagram](architexture_diagram.png)
+![Architecture Diagram](architecture_diagram.png)
 
 
 ## ETL Flow Diagram
