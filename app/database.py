@@ -1,4 +1,3 @@
-# app/database.py
 # Module for handling SQLite database operations for precious metals prices.
 
 import sqlite3
