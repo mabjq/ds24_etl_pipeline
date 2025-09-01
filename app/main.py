@@ -1,4 +1,3 @@
-# app/main.py
 # Main script to run the ETL pipeline: fetch prices, transform, load to database, and visualize.
 
 import logging
