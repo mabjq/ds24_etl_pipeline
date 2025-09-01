@@ -1,0 +1,16 @@
+2025-08-31 12:28:52,129 - gold_silver_etl.transform.extreme - INFO - 2025-04-04T00:00:00 - Extreme price movement for silver: -5.26%
+2025-08-31 12:29:02,574 - gold_silver_etl.transform.extreme - INFO - 2025-04-05T00:00:00 - Extreme price movement for silver: -6.98%
+2025-08-31 12:42:27,195 - gold_silver_etl.transform.extreme - INFO - 2025-06-21T00:00:00 - Extreme price movement for silver: +6.24%
+2025-08-31 12:42:37,688 - gold_silver_etl.transform.extreme - INFO - 2025-06-22T00:00:00 - Extreme price movement for silver: -7.29%
+2025-08-31 12:53:04,723 - gold_silver_etl.transform.extreme - INFO - 2025-08-21T00:00:00 - Extreme price movement for silver: -7.26%
+2025-08-31 12:53:15,145 - gold_silver_etl.transform.extreme - INFO - 2025-08-22T00:00:00 - Extreme price movement for silver: +7.21%
+2025-08-31 12:54:28,180 - gold_silver_etl.transform.extreme - INFO - 2025-08-29T00:00:00 - Extreme price movement for silver: +8.07%
+2025-08-31 12:54:38,595 - gold_silver_etl.transform.extreme - INFO - 2025-08-30T00:00:00 - Extreme price movement for silver: -7.52%
+2025-09-01 13:14:56,918 - gold_silver_etl.transform.extreme - INFO - 2025-04-04T00:00:00 - Extreme price movement for silver: -5.26%
+2025-09-01 13:15:07,351 - gold_silver_etl.transform.extreme - INFO - 2025-04-05T00:00:00 - Extreme price movement for silver: -6.98%
+2025-09-01 13:28:32,626 - gold_silver_etl.transform.extreme - INFO - 2025-06-21T00:00:00 - Extreme price movement for silver: +6.24%
+2025-09-01 13:28:43,045 - gold_silver_etl.transform.extreme - INFO - 2025-06-22T00:00:00 - Extreme price movement for silver: -7.29%
+2025-09-01 13:39:10,378 - gold_silver_etl.transform.extreme - INFO - 2025-08-21T00:00:00 - Extreme price movement for silver: -7.26%
+2025-09-01 13:39:20,805 - gold_silver_etl.transform.extreme - INFO - 2025-08-22T00:00:00 - Extreme price movement for silver: +7.21%
+2025-09-01 13:40:34,008 - gold_silver_etl.transform.extreme - INFO - 2025-08-29T00:00:00 - Extreme price movement for silver: +8.07%
+2025-09-01 13:40:44,446 - gold_silver_etl.transform.extreme - INFO - 2025-08-30T00:00:00 - Extreme price movement for silver: -7.52%
