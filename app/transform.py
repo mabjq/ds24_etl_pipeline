@@ -1,4 +1,4 @@
-# Module for transforming fetched price data: currency conversion, change calculation, validation, and extreme movement flagging.
+# Module for transforming fetched price data: change calculation, validation, and extreme movement flagging.
 
 import logging
 from datetime import datetime
