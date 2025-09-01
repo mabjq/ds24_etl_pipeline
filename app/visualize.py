@@ -1,4 +1,3 @@
-# app/visualize.py
 # Module for visualizing gold and silver prices with matplotlib, including extreme movements.
 
 import sqlite3
