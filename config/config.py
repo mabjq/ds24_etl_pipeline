@@ -1,4 +1,3 @@
-# config/config.py
 # API keys
 COINGECKO_API_KEY = "CG-MPqmxjGtWHVYMZvnL2jmv3ko"
 
