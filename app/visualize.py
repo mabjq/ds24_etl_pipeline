@@ -78,7 +78,7 @@ def create_price_plot() -> bool:
         ax2.set_ylabel("Silver Price (USD/oz)", color="silver") 
         ax2.tick_params(axis='y', labelcolor="silver") 
  
-        # Mark extreme movements with red stars (smaller size for consistency) 
+        # Mark extreme movements 
         for date, price, change in gold_data: 
             if abs(change) > EXTREME_THRESHOLD: 
                 ax1.scatter([datetime.fromisoformat(date)], [price], color="red", s=50, marker="*") 
