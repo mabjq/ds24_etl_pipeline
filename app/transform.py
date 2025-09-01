@@ -1,4 +1,3 @@
-# app/transform.py
 # Module for transforming fetched price data: currency conversion, change calculation, validation, and extreme movement flagging.
 
 import logging
