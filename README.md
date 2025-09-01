@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project, developed as part of a Python programming course, implements an automated ETL (Extract, Transform, Load) pipeline to fetch, process, and store gold and silver prices from the CoinGecko API, using Python. The pipeline retrieves daily prices for gold (PAXG) and silver (silver-token-xagx), transforms them (e.g., percentage change calculation), stores the data in a SQLite database, and visualizes the results as a line plot with dual y-axes. It includes error handling, logging, automated tests, and scheduling via CRON on Ubuntu. Project focus is on code structure, modularity, testing and automation and not so much on the data.
+This project, developed as part of a Python programming course, implements an automated ETL (Extract, Transform, Load) pipeline to fetch, process, and store gold and silver prices from the CoinGecko API, using Python. The pipeline retrieves daily prices for gold (PAXG) and silver (silver-token-xagx), transforms them (percentage change calculation), stores the data in a SQLite database, and visualizes the results as a line plot. It includes error handling, logging, tests, and scheduling via CRON on Ubuntu. Project focus is on code structure, modularity, testing and automation and not so much on the data.
 
 ## Features
 
@@ -50,19 +50,14 @@ gold_silver_etl/
 ## Architecture Diagram
 
 Illustration of the flow of data through the pipeline. 
-
-
-```
 ![Architecture Diagram](architexture_diagram.png)
-```
+
 
 ## ETL Flow Diagram
 
 Illustration of the ETL flow diagram, showing the sequence of operations. 
-
-```
 ![Workflow Diagram](etl_flow_diagram.png)
-```
+
 
 ## Installation
 
