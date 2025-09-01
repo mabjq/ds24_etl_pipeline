@@ -1,4 +1,3 @@
-# app/api.py
 import requests
 import logging
 from datetime import datetime
